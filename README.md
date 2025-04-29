@@ -6,3 +6,6 @@ This repository contains materials from the Deep Learning Guide authored by Dr. 
 
 ⚠️ Important:
 The dataset used in this project is derived from real patient data but has been augmented for educational purposes only. It is not intended for academic research or clinical use.
+
+The dataset for task in handbook can be accessed at:
+https://zenodo.org/records/15302489
