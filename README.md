@@ -9,3 +9,19 @@ The dataset used in this project is derived from real patient data but has been 
 
 The dataset for task in handbook can be accessed at:
 https://zenodo.org/records/15302489
+
+The solution for the task in Solution.py.
+
+Resources:
+
+MIT course on Deep learning:
+
+https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=tQE4XCvVpl_Ug1js
+
+Blog on Deep learning (recommended):
+
+https://machinelearningmastery.com/
+
+Textbook on Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville:
+
+https://github.com/janishar/mit-deep-learning-book-pdf
