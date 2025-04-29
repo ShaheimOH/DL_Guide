@@ -10,7 +10,7 @@ The dataset used in this project is derived from real patient data but has been 
 The dataset for task in handbook can be accessed at:
 https://zenodo.org/records/15302489
 
-The solution for the task in Solution.py.
+The solution for the task in Solution.py
 
 Resources:
 
